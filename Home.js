@@ -10,7 +10,7 @@ import InterviewRoadmap from '../components/InterviewRoadmap';
 
 
 const topics = [
-  { title: 'React', description: 'Test your React.js skills', emoji: '⚛️', path: '/react' },
+  { title: 'React', description: 'Test your hfgesygtjhhfsf skills', emoji: '⚛️', path: '/react' },
   { title: 'JavaScript', description: 'Core JS interview questions', emoji: '📜', path: '/javascript' },
   { title: 'HTML/CSS', description: 'Frontend basics and styling', emoji: '🎨', path: '/html-css' },
   { title: 'Node.js', description: 'Server-side JavaScript', emoji: '🟢', path: '/nodejs' },
